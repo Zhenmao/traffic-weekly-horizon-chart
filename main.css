@@ -1,10 +1,18 @@
 @import url("https://fonts.googleapis.com/css?family=Merriweather+Sans|Merriweather:700&display=swap");
 
 body {
-	font-family: "Merriweather", serif;
 	font-family: "Merriweather Sans", sans-serif;
-	font-size: 16px;
+	font-size: 14px;
 }
+
+h1 {
+	font-family: "Merriweather", serif;
+}
+
+svg text {
+	font-size: 10px;
+}
+
 .container {
 	margin: auto;
 	width: 90vw;
